@@ -1,6 +1,6 @@
 ## Hi, I'm Elliot! 👋
 
-📖 Studying Computer Science and Mathematics at The University of Manchester, United Kingdom <br/>
+📖 Computer Science and Mathematics at The University of Manchester, United Kingdom <br/>
 <!--
 **elliotehc/elliotehc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
